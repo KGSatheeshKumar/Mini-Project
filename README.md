@@ -89,11 +89,15 @@
 ```
 # PYTHON CODE:
 ```
+```
 ![Screenshot 2023-06-04 114612](https://github.com/KGSatheeshKumar/Mini-Project/assets/128453421/2f4eb20e-eb0c-435e-8ba4-b59976e22545)
 ```
+```
 # OUTPUT
+```
 ```
 ![Screenshot 2023-06-04 115052](https://github.com/KGSatheeshKumar/Mini-Project/assets/128453421/4cffb559-c9c3-434d-a142-796cb6590f15)
 ![Screenshot 2023-06-04 115135](https://github.com/KGSatheeshKumar/Mini-Project/assets/128453421/59323272-72f2-490b-8050-a7b978892d96)
 
+```
 ```
